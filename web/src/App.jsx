@@ -1,11 +1,9 @@
-import logo from './logo.svg';
+
 import './App.css';
 import {useState} from "react";
 
 
-const Greeting = ({username}) => {
-  return (<h1>Hello, {username}</h1>)
-}
+
 
 
 function App() {
