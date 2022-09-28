@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.fced7bad.css",
-    "main.js": "/static/js/main.f33225ba.js",
-    "index.html": "/index.html",
-    "main.fced7bad.css.map": "/static/css/main.fced7bad.css.map",
-    "main.f33225ba.js.map": "/static/js/main.f33225ba.js.map"
+    "main.css": "/devopsReact/static/css/main.fced7bad.css",
+    "main.js": "/devopsReact/static/js/main.f33225ba.js",
+    "index.html": "/devopsReact/index.html",
+    "main.fced7bad.css.map": "/devopsReact/static/css/main.fced7bad.css.map",
+    "main.f33225ba.js.map": "/devopsReact/static/js/main.f33225ba.js.map"
   },
   "entrypoints": [
     "static/css/main.fced7bad.css",
