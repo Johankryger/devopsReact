@@ -15,6 +15,7 @@ function App() {
       <div>Hello, {username}</div>
       <button onClick = {(e)=>setUsername("Johnny")}>
           Skift navn
+          Hello
       </button>
     </div>
   );
