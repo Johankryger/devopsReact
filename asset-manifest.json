@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/devopsReact/static/css/main.fced7bad.css",
-    "main.js": "/devopsReact/static/js/main.f33225ba.js",
+    "main.js": "/devopsReact/static/js/main.8c9c01cd.js",
     "index.html": "/devopsReact/index.html",
     "main.fced7bad.css.map": "/devopsReact/static/css/main.fced7bad.css.map",
-    "main.f33225ba.js.map": "/devopsReact/static/js/main.f33225ba.js.map"
+    "main.8c9c01cd.js.map": "/devopsReact/static/js/main.8c9c01cd.js.map"
   },
   "entrypoints": [
     "static/css/main.fced7bad.css",
-    "static/js/main.f33225ba.js"
+    "static/js/main.8c9c01cd.js"
   ]
 }
